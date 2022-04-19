@@ -22,10 +22,6 @@ body {
     font-size: 1.1em;
 }
 
-a:hover{
-    color: #00ffcd;
-}
-
 .table {
     width: 100%;
     padding: 2em;
